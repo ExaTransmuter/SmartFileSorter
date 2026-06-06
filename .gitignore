@@ -1,0 +1,64 @@
+# Build directories
+
+bin/
+obj/
+
+# Visual Studio
+
+.vs/
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+# Rider
+
+.idea/
+
+# Logs
+
+*.log
+
+# NuGet
+
+packages/
+*.nupkg
+
+# Publish output
+
+publish/
+
+# Cache
+
+.cache/
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# macOS
+
+.DS_Store
+
+# Generated files
+
+Generated/
+
+# Test Results
+
+TestResults/
+
+# Coverage
+
+coverage/
+
+# Build artifacts
+
+artifacts/
